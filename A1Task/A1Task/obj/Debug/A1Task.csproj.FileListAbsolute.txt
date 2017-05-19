@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\bin\Debug\A1Task.exe.config
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\bin\Debug\A1Task.exe
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\bin\Debug\A1Task.pdb
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\obj\Debug\A1Task.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\obj\Debug\A1Task.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\obj\Debug\A1Task.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\obj\Debug\A1Task.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\obj\Debug\A1Task.exe
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\obj\Debug\A1Task.pdb
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\bin\Debug\imgpreview.png
+c:\users\user\documents\visual studio 2015\Projects\A1Task\A1Task\bin\Debug\IMG_2656.JPG
