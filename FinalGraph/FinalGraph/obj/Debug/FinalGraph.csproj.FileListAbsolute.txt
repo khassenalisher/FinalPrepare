@@ -1,0 +1,6 @@
+c:\users\alisher\documents\visual studio 2015\Projects\FinalGraph\FinalGraph\bin\Debug\FinalGraph.exe.config
+c:\users\alisher\documents\visual studio 2015\Projects\FinalGraph\FinalGraph\bin\Debug\FinalGraph.exe
+c:\users\alisher\documents\visual studio 2015\Projects\FinalGraph\FinalGraph\bin\Debug\FinalGraph.pdb
+c:\users\alisher\documents\visual studio 2015\Projects\FinalGraph\FinalGraph\obj\Debug\FinalGraph.csprojResolveAssemblyReference.cache
+c:\users\alisher\documents\visual studio 2015\Projects\FinalGraph\FinalGraph\obj\Debug\FinalGraph.exe
+c:\users\alisher\documents\visual studio 2015\Projects\FinalGraph\FinalGraph\obj\Debug\FinalGraph.pdb
