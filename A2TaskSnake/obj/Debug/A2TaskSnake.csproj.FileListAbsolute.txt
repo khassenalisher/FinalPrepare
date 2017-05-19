@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\bin\Debug\A2TaskSnake.exe.config
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\bin\Debug\A2TaskSnake.exe
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\bin\Debug\A2TaskSnake.pdb
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\obj\Debug\A2TaskSnake.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\obj\Debug\A2TaskSnake.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\obj\Debug\A2TaskSnake.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\obj\Debug\A2TaskSnake.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\obj\Debug\A2TaskSnake.exe
+c:\users\user\documents\visual studio 2015\Projects\A2TaskSnake\A2TaskSnake\obj\Debug\A2TaskSnake.pdb
